@@ -3,7 +3,6 @@ Repositório criado para os Desafios, anotações e exercícios de Projeto
 
 # Sobre o Bootcamp DIO everis New Talents #2 .NET 
 
-everis New Talents #2 .NET
 O Bootcamp everis New Talents #2 .NET tem o propósito de formar profissionais Fullstack nas tecnologias de .NET, Html5 e Css3.
 
 Nós da DIO, em parceria com a multinacional everis - desenvolvedora de soluções de negócio, tecnologia da informação e outsourcing para os setores de bancos, seguros, telecomunicações, indústria e governo; traremos a você um programa completo e com foco em desenvolvimento para testers no mundo do back-end com Java. 
