@@ -1,0 +1,16 @@
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\bin\Debug\net5.0\PrimeirosPassosComDotNet.exe
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\bin\Debug\net5.0\PrimeirosPassosComDotNet.deps.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\bin\Debug\net5.0\PrimeirosPassosComDotNet.runtimeconfig.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\bin\Debug\net5.0\PrimeirosPassosComDotNet.runtimeconfig.dev.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\bin\Debug\net5.0\PrimeirosPassosComDotNet.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\bin\Debug\net5.0\ref\PrimeirosPassosComDotNet.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\bin\Debug\net5.0\PrimeirosPassosComDotNet.pdb
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.csproj.AssemblyReference.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.AssemblyInfoInputs.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.AssemblyInfo.cs
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.csproj.CoreCompileInputs.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\ref\PrimeirosPassosComDotNet.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.pdb
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\PrimeirosPassosComDotNet\obj\Debug\net5.0\PrimeirosPassosComDotNet.genruntimeconfig.cache
