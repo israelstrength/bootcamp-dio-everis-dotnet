@@ -1,0 +1,16 @@
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\bin\Debug\net5.0\02-EstruturaDePrograma.exe
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\bin\Debug\net5.0\02-EstruturaDePrograma.deps.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\bin\Debug\net5.0\02-EstruturaDePrograma.runtimeconfig.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\bin\Debug\net5.0\02-EstruturaDePrograma.runtimeconfig.dev.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\bin\Debug\net5.0\02-EstruturaDePrograma.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\bin\Debug\net5.0\ref\02-EstruturaDePrograma.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\bin\Debug\net5.0\02-EstruturaDePrograma.pdb
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.csproj.AssemblyReference.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.AssemblyInfoInputs.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.AssemblyInfo.cs
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.csproj.CoreCompileInputs.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\ref\02-EstruturaDePrograma.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.pdb
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\02-EstruturaDePrograma\obj\Debug\net5.0\02-EstruturaDePrograma.genruntimeconfig.cache
