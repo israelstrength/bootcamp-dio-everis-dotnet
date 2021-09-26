@@ -6,7 +6,7 @@ namespace PrimeirosPassosComDotNet
     {
         static void Main(string[] args)
         {
-            int numeroDeVezes = 20;
+            int numeroDeVezes = 15;
             for(int i = 1; i < numeroDeVezes; i++)
             {
                 Console.WriteLine($"Bem-vindo ao curso de .NET {i}");
