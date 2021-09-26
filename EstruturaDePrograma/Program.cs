@@ -11,6 +11,8 @@ namespace EstruturaDePrograma
             a.Empilha(1);
             a.Empilha(10);
             a.Empilha(100);
+            a.Empilha(1000);
+            Console.WriteLine(a.Desempilha());
             Console.WriteLine(a.Desempilha());
             Console.WriteLine(a.Desempilha());
             Console.WriteLine(a.Desempilha());
