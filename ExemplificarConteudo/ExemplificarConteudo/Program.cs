@@ -1,6 +1,7 @@
 ﻿using System;
 
 namespace ExemplificarConteudo
+
 {
     class Program //classe
     {
@@ -14,7 +15,7 @@ namespace ExemplificarConteudo
             Console.WriteLine(a + b + c + d);
         }
 
-        static void InstrucaoIf(string[] args)
+        static void InstrucaoIf(string[] args) //metodo
         {
             if (args.Length == 0)
             {
@@ -39,7 +40,7 @@ namespace ExemplificarConteudo
                     Console.WriteLine("Nenhum argumento");
                     break;
                 case 1:
-                    Console.WriteLine("Um argumento");
+                    Console.WriteLine("argumento 1");
                     break;
                 default:
                     Console.WriteLine($"{numeroDeArgumentos} argumentos");
@@ -166,6 +167,7 @@ namespace ExemplificarConteudo
                 w.WriteLine("Line 1");
                 w.WriteLine("Line 2");
                 w.WriteLine("Line 3");
+                w.WriteLine("Line 4");
             }
         }
     }
