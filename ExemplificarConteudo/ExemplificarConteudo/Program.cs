@@ -9,7 +9,7 @@ namespace ExemplificarConteudo
         {
             Console.WriteLine("Hello World! This is My first instruction on .NET");
             int a;
-            int b = 2, c = 3;
+            int b = 12, c = 3;
             const int d = 4;
             a = 1;
             Console.WriteLine(a + b + c + d);
