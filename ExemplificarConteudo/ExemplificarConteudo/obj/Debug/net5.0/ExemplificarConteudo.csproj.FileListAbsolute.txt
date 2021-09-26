@@ -1,0 +1,16 @@
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\bin\Debug\net5.0\ExemplificarConteudo.exe
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\bin\Debug\net5.0\ExemplificarConteudo.deps.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\bin\Debug\net5.0\ExemplificarConteudo.runtimeconfig.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\bin\Debug\net5.0\ExemplificarConteudo.runtimeconfig.dev.json
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\bin\Debug\net5.0\ExemplificarConteudo.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\bin\Debug\net5.0\ref\ExemplificarConteudo.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\bin\Debug\net5.0\ExemplificarConteudo.pdb
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.csproj.AssemblyReference.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.AssemblyInfoInputs.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.AssemblyInfo.cs
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.csproj.CoreCompileInputs.cache
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ref\ExemplificarConteudo.dll
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.pdb
+C:\BootCampEveris\Dio\bootcamp-dio-everis-dotnet\ExemplificarConteudo\ExemplificarConteudo\obj\Debug\net5.0\ExemplificarConteudo.genruntimeconfig.cache
