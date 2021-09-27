@@ -15,7 +15,7 @@ namespace ClassesObjetos.Herança
             CalcularDistancia();
         }
 
-        public static void Calcular()
+        public static void Calcular() //metodo
         {
             //Faz alguma coisa...
         }
