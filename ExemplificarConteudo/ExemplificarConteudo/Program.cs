@@ -5,7 +5,7 @@ namespace ExemplificarConteudo
 {
     class Program //classe
     {
-        static void Main(string[] args) //metodo
+        static void Main(string[] args) //Metodo
         {
             Console.WriteLine("Hello World! This is My first instruction on .NET");
             int a;
@@ -15,7 +15,7 @@ namespace ExemplificarConteudo
             Console.WriteLine(a + b + c + d);
         }
 
-        static void InstrucaoIf(string[] args) //metodo
+        static void InstrucaoIf(string[] args) //Metodo
         {
             if (args.Length == 0)
             {
